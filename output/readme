@@ -1,13 +1,20 @@
 
-Certainly! Below are descriptions of the outcomes for both the ARIMA and linear regression modeling approaches applied to the synthetic time series data:
 
 ARIMA Outcome:
-The ARIMA (AutoRegressive Integrated Moving Average) model is a widely used time series forecasting method. In this outcome, we fitted an ARIMA model to the synthetic time series data. The ARIMA model aims to capture the autocorrelation and seasonality present in the data to make predictions. After fitting the model, we used it to forecast the next 10 time points in the series. The plot displays the original time series data along with the forecasted values for the next 10 time points. The forecasted values are represented by the red line.
+The ARIMA (AutoRegressive Integrated Moving Average) model is a widely used time series forecasting method. In this outcome, we fitted an ARIMA model to the synthetic 
+time series data. The ARIMA model aims to capture the autocorrelation and seasonality present in the data to make predictions. After fitting the model, we used it 
+to forecast the next 10 time points in the series. The plot displays the original time series data along with the forecasted values for the next 10 time points. 
+The forecasted values are represented by the red line.
 
 Linear Regression Outcome:
-Linear regression is a simple yet powerful method used for modeling the relationship between a dependent variable and one or more independent variables. In this outcome, we applied linear regression to the synthetic time series data. We treated time as the independent variable and the values of the time series as the dependent variable. After fitting the linear regression model to the data, we used it to predict the values for the next 10 time points. The plot shows the original time series data along with the forecasted values for the next 10 time points, represented by the red line.
+Linear regression is a simple yet powerful method used for modelling the relationship between a dependent variable and one or more independent variables. 
+In this outcome, we applied linear regression to the synthetic time series data. We treated time as the independent variable and the values of the time series as 
+the dependent variable. After fitting the linear regression model to the data, we used it to predict the values for the next 10 time points. The plot shows the 
+original time series data along with the forecasted values for the next 10 time points, represented by the red line.
 
-These outcomes provide insights into how each modeling approach performs in forecasting future values of the synthetic time series data. Both methods have their strengths and weaknesses, and the choice between them depends on factors such as the characteristics of the data and the specific requirements of the forecasting task.
+These outcomes provide insights into how each modelling approach performs in forecasting future values of the synthetic time series data. Both methods have their 
+strengths and weaknesses, and the choice between them depends on factors such as the characteristics of the data and the specific requirements of the forecasting 
+task.
 
 
 
