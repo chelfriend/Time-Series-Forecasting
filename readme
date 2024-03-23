@@ -1,0 +1,1 @@
+This code generates a synthetic time series dataset with random noise following a normal distribution. You can adjust parameters like num_points, mean (loc), and standard deviation (scale) to modify the characteristics of the time series data. Feel free to customize it according to your requirements!
